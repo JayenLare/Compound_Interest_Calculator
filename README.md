@@ -2,7 +2,7 @@
 **Discover how your money can grow with this compound interest calculator.**
 
 ## Description
-This program is written in Python and allows the user to enter an initial investment, an amount and frequency that will be contributed to the investment, an amount of years the investment will be held for, the expected compound interest rate, a variance for that interest rate, and how often the investment will compound. Using this information the program will calculate how much the investment will be worth at the end of 'n' years, and a range that the investment could be worth based on the variance.
+This program is written in Python and allows the user to enter an initial investment, an amount and frequency that will be contributed to the investment, the amount of years the investment will be contributed too, the expected compound interest rate, a variance for that interest rate, and how often the investment will compound. Using this information the program will calculate how much the investment will be worth at the end of 'n' years, and a range that the investment could be worth based on the variance.
 
 ## Getting Setup
 ### Prerequisites
