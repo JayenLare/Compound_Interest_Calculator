@@ -62,7 +62,7 @@ def main():
   print("M: Monthly")
   print("D: Daily")
   frequency = input("Enter the letter of your choice: ").upper()
-  # Converts frequency letter input to corresponding integer value
+  # Converts letter input to corresponding integer value
   frequency = letterToValue(frequency)
   print("")
 
