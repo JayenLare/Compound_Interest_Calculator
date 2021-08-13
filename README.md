@@ -18,11 +18,11 @@ This program is written in Python and allows the user to enter an initial invest
     ```
 3. Change permissions:
     ```sh
-    chmod 777 Compound_Interest.py
+    chmod 777 compoundInterest.py
     ```
 4. Run the program:
     ```sh
-    python3 Compound_Interest.py
+    python3 compoundInterest.py
     ```
  
 ## Usage
